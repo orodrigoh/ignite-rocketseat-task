@@ -40,5 +40,7 @@
     "webpack": "^5.17.0",
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "repository": "https://github.com/orodrigoh/ignite-rocketseat-task.git",
+  "author": "orodrigoh <rodrigo.hss@outlook.com>"
 }
